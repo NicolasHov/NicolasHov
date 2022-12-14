@@ -8,4 +8,4 @@
 
 - ♻️ I've been curating a bit about [schools of code and learning to code](https://twitter.com/i/lists/1317409507761324033) 
 
-- 💬 Let's discuss ! [Book a meeting](https://calendly.com/hovart-nicolas/30min) or let's meet in Brussels or Paris !
+- 💬 Let's discuss ! [Book a meeting](https://calendly.com/hovart-nicolas/30min) or let's meet in Brussels 🇧🇪 or Paris 🇫🇷 !
