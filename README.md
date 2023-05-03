@@ -1,6 +1,6 @@
 # Hello, I'm Nicolas 👋
 
-- 📱 💻 I'm a Javascript developer (ReactJS, RN, ExpressJS, Ts, NodeJS) [Check out my portfolio](https://nicolashov.github.io/)
+- 📱 💻 I'm a Javascript developer (ReactJS, RN, VueJS, ExpressJS, Ts, NodeJS) [Check out my portfolio](https://nicolashov.github.io/)
 
 - 🏔 I'm also curious about new languages like Rust 🦀 and new tools like NixOs ❄️
 
