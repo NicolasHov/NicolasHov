@@ -2,7 +2,7 @@
 
 - 📱 💻 I'm a Javascript developer (ReactJS, RN, VueJS, ExpressJS, Ts, NodeJS) [Check out my portfolio](https://nicolashov.github.io/)
 
-- 🏔 I'm also curious about new languages like Rust 🦀 and new tools like NixOs ❄️
+- 🏔 I'm also curious about new languages like Rust 🦀 or WebAsssembly 🕸️ and new tools like NixOs ❄️
 
 - 🍰 I'm currently working part-time at becode.org as coach on the FullStack cursus, before that I worked at the bootcamp [Matrice.io](https://matrice.io/) as lead-teacher of the FullStack cursus. In the past I worked on projects like [this serious game](https://gitlab.com/la-boussole/gaoblaze/track/-/graphs/master)
 
