@@ -1,6 +1,6 @@
 # Hello, I'm Nicolas 👋
 
-- 📱 💻 I'm a Javascript developer (ReactJS, NextJS, VueJS, ExpressJS, Ts, NodeJS) [Check out my portfolio](https://nicolashov.github.io/)
+- 📱 💻 I'm a Javascript developer (ReactJS, NextJS, VueJS, ExpressJS, Ts, NodeJS) [Check out my portfolio](https://nicolashov.github.io/ni-co.dev)
 
 - 🏔 I'm also curious about languages like Rust 🦀 (I co-organize a monthly meetup in Brussels) or WebAsssembly 🕸️ (check my [slides](https://nicolashov.github.io/wasm-with-rust-slides/) and tools like NixOs ❄️ (see my [configuration file](https://github.com/NicolasHov/nixfiles))
 
